@@ -40,15 +40,19 @@ https://www.figma.com/file/cwsrW1XJfj4TY5uUTCm8hy/GeoIndex?type=design&node-id=0
 
 _**Site:**_
 https://tradingeconomic-thldswdn.netlify.app/
+(will work as long as API Key works)
 #
 
 ## How to Run
 
-Step 1:
+- Prior Steps: </br>
+Enter data.jsx and time-series.jsx and update the API Keys with your own. </br>
+
+- Step 1:
 ```bash
 cd web-app
 ```
-Step 2:
+- Step 2:
 ```bash
 npm start
 ```
