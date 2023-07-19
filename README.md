@@ -9,13 +9,17 @@ The Trading Economics NPM package provides direct access to our data. It allows 
 
 ## Installation
 
-Step 1: Using NPM
+- Prior Steps:
+
+Install [Node.js](https://nodejs.org/en) and Clone Repository
+
+- Step 1: Using NPM
 
 ```bash
 npm install -g tradingeconomics
 ```
 
-Step 1(v2): Using GitHub
+- Step 1(v2): Using GitHub
 
 ```bash
 
@@ -23,16 +27,19 @@ git clone https://github.com/tradingeconomics/tradingeconomics-js.git
 cd tradingeconomics-js
 npm i
 ```
-Step 2: Add Chart
+- Step 2: Add Chart
 ```bash
+cd web-app
 npm install chart.js react-chartjs-2
 ```
 #
 
-## Figma Board
+## Figma Board and Site Host (via Netify)
+_**Figma:**_
+https://www.figma.com/file/cwsrW1XJfj4TY5uUTCm8hy/GeoIndex?type=design&node-id=0%3A1&mode=design&t=YayWpXj4FWWMrlh1-1
 
-https://www.figma.com/file/n6xqnDOOC04YnfUi3ROWxr/Website-Front-End?t=yRDeIpmy40AGZOWa-0
-
+_**Site:**_
+https://tradingeconomic-thldswdn.netlify.app/
 #
 
 ## How to Run
